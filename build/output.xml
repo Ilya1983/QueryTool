@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="13" failures="0" disabled="0" errors="0" timestamp="2023-09-05T13:57:11" time="0.001" name="AllTests">
+  <testsuite name="SanityTest" tests="2" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="TrueTest" status="run" time="0" classname="SanityTest" />
+    <testcase name="FalseTest" status="run" time="0" classname="SanityTest" />
+  </testsuite>
+  <testsuite name="VariableTest" tests="3" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="IntTrueTest" status="run" time="0" classname="VariableTest" />
+    <testcase name="StringTrueTest" status="run" time="0" classname="VariableTest" />
+    <testcase name="BoolTrueTest" status="run" time="0" classname="VariableTest" />
+  </testsuite>
+  <testsuite name="ComparisonTest" tests="3" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GreaterThenTest" status="run" time="0" classname="ComparisonTest" />
+    <testcase name="LessThenTest" status="run" time="0" classname="ComparisonTest" />
+    <testcase name="EqualsIntTest" status="run" time="0" classname="ComparisonTest" />
+  </testsuite>
+  <testsuite name="BooleanTest" tests="3" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="OrTest" status="run" time="0" classname="BooleanTest" />
+    <testcase name="AndTest" status="run" time="0" classname="BooleanTest" />
+    <testcase name="NotTest" status="run" time="0" classname="BooleanTest" />
+  </testsuite>
+  <testsuite name="ValuesReceiverLibTest" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="NotTest" status="run" time="0" classname="ValuesReceiverLibTest" />
+  </testsuite>
+  <testsuite name="ExpressionWithQuotationTest" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="ParanthesisTest" status="run" time="0" classname="ExpressionWithQuotationTest" />
+  </testsuite>
+</testsuites>

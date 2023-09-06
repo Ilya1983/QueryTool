@@ -1,0 +1,7 @@
+#include "pch.h"
+#include "ValueReceiver.h"
+
+SpecificValue ValueReceiver::receive_value(std::string name)
+{
+    return SpecificValue();
+}

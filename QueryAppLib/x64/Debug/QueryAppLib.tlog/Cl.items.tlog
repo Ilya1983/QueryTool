@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\BooleanExpression.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\BooleanExpression.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ComparisonExpression.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ComparisonExpression.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ConstantExpression.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ConstantExpression.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ConstantValue.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ConstantValue.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\Expression.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\Expression.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\pch.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\pch.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\QueryAppLib.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\QueryAppLib.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\SpecificValue.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\SpecificValue.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\utilities.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\utilities.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\Value.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\Value.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ValueReceiverJson.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ValueReceiverJson.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ValueReceiverLib.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ValueReceiverLib.obj
+C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\ValueVariable.cpp;C:\Users\ADMIN\source\repos\QueryApp\QueryAppLib\x64\Debug\ValueVariable.obj
